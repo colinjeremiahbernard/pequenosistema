@@ -1,0 +1,23 @@
+header {
+    display: inline-block;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    margin-top: 5px;
+    height: 150px;
+    width: 100%;
+    background-color: blueviolet;
+}
+.Header-Logo {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 0px;
+    margin-right: 25px;
+    font-size: 25px;
+}
